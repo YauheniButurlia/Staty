@@ -1,0 +1,1 @@
+include ':app', ':scenetry', ':acttran', ':touchtest', ':passwordform', ':transtry', ':activitytran', ':fragtran', ':bitmaptest'
